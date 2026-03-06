@@ -1,7 +1,5 @@
-# Disaster-Report-PowerBi-
+#  Global Disaster Response Analysis (Power BI Dashboard)
 Global Disaster Response Analysis Dashboard built in Power BI to analyze disaster trends, response performance, economic losses, and aid distribution (2018–2024).
-
-# 🌍 Global Disaster Response Analysis (Power BI Dashboard)
 
 ## 📊 Project Overview
 The **Global Disaster Response Analysis Dashboard** is an interactive Power BI project designed to analyze worldwide disaster events and evaluate response performance, recovery efficiency, and aid distribution.
