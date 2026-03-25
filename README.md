@@ -176,8 +176,8 @@ ADDCOLUMNS(
 
 **Chanchal Vijay Bhangale**
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/  
+📧 Email: chanchalbhangale83@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/chanchal-bhangale-623812322/  
 💻 GitHub: https://github.com/Chanchal7136
 
 ---
